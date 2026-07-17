@@ -1,5 +1,5 @@
 # codealpha-python-projectrt
-# Code Alpha
+# Code Alpha 
 
 Code Alpha is a Python-based project developed to demonstrate clean, efficient, and well-structured programming practices. The project focuses on solving practical problems using Python while maintaining readable, modular, and reusable code.
 
